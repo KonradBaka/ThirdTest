@@ -1,4 +1,4 @@
-package pl.kurs.exercise1.service.exercise2.app;
+package pl.kurs.exercise2.app;
 
 import java.io.File;
 import java.io.IOException;
